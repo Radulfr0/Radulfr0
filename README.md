@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou o Raul 👋
 
-<!--
-**Radulfr0/Radulfr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Sobre mim
+Sou um estudante do último ano do curso de Desenvolvimento de Sistemas no **SENAI**. Tenho grande interesse em tecnologia e desenvolvimento web, sempre buscando aprender e evoluir na área.
 
-Here are some ideas to get you started:
+## 🏆 Meus interesses/🛠️ Habilidades
+- 📚 Adquir um maior conhecimento desta área
+- 🌱 Evoluir cada vez mais como profissional e como pessoa
+- ✨ **HTML**
+- 🌟 **CSS**
+- ⚡ **Básico de JavaScript**
+## 🎭 Hobbies
+- ⚽ Apaixonado por futebol e torcedor do **Santos FC**
+- 🚗 Admirador de **carros antigos** e **carros turbinados**
+- 💻 Entusiasta da programação e tecnologia
+- 🎧 Gosto de **Raul Seixas**,**Slipkinot** e **Bee Gees**
+- 🏋️ Pratico academia po saúde
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Onde me encontrar
+- **GitHub** https://github.com/Radulfr0
+
+## 👉 Conecte-se comigo
+Se quiser bater um papo sobre tecnologia, futebol ou carros, fique à vontade para me chamar! 
+
+---
+👨‍💻 "A tecnologia move o mundo!"
