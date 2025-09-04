@@ -1,7 +1,7 @@
 # Olá! Eu sou o Raul 👋
 
 ## 📚 Sobre mim
-Sou um estudante do último ano do curso de Desenvolvimento de Sistemas no **SENAI**. Tenho grande interesse em tecnologia e desenvolvimento web, sempre buscando aprender e evoluir na área.
+Tenho 17 anos, residente em Osvaldo Cruz e estou concluindo o curso de Análise e Desenvolvimento de Sistemas pelo **Senai**. Atuo como desenvolvedor full-stack, com domínio em HTML, CSS, JavaScript, React, React Native e Node.js, além de experiência no desenvolvimento de aplicações web e mobile. Possuo perfil analítico, proativo e voltado para resultados, buscando aplicar e expandir minhas habilidades na área de tecnologia.
 
 ## 🏆 Meus interesses/🛠️ Habilidades
 - 📚 Adquir um maior conhecimento desta área
